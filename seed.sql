@@ -1,0 +1,1 @@
+INSERT INTO students (name, age) VALUES ('Fernando',23);
